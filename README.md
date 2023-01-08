@@ -17,13 +17,13 @@ Geronimo acredita que perde muito tempo lembrando qual número do mês represent
 
 Os algarismos romanos são representados por sete símbolos diferentes: I, V, X, L, C, D e M. Cada um com seu respectivo valor: 
 
-I : 1 
-V : 5 
-X : 10 
-L : 50 
-C : 100 
-D : 500 
-M : 1000 
+    I : 1 
+    V : 5 
+    X : 10 
+    L : 50 
+    C : 100 
+    D : 500 
+    M : 1000 
 
 Eles são geralmente escritos do maior para o menor. Porém, para escrevermos “4” não usamos “IIII”, mas sim “IV” porque 5 - 1 = 4. Você receberá uma entrada em numeral romano e deverá imprimir o numeral romano convertido para um número inteiro. 
 
@@ -39,7 +39,7 @@ O salário a ser transferido é calculado da seguinte maneira:
 Para calcular o percentual de imposto segue as aliquotas:
 
     De R$ 0.00 a R$ 1100.00 = 5.00%
-    De R$ 1100.01 a R$ 2500.00 = 10.00%
+    De R$ 1100.01 a R$ 2500.00 = 10.00
     Maior que R$ 2500.00 = 15.00%
 
 ### Desafio de código 5: Orientação a Objetos (OO) Visando Soluções Mais Idiomáticas
